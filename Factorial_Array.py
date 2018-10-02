@@ -1,3 +1,6 @@
+'''
+OBJECTIVE:- Factorial Array
+'''
 from bisect import bisect
 mod = 10**9+7
 prime = [2,3]
